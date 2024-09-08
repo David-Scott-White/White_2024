@@ -15,7 +15,7 @@ The GUIs contained in this repo (smtoolbox2024) were written to analyze 1 or 2 c
 * smtoolbox_2024/utilties contains a variety of useful (IMO) functinos for single molecule analysis. For example, 'fitDwells' can fit dwell times to single and biexponetial distributions using maximum likelihood estimation and 'plotDwells' is a quick way to visualize a histogram of dwell times overlaid with the MLE result.  
 
 ## Concluding Remarks
-This repo exists to upload my local scripts and codebase used in White 2024. The code contained herein was not intended for distribution in this state, but only for clairty in how data were treated and how figures were made. As life would have it, I have moved on to industry as of Septemeber 2023 and am unlikely to update, document, or respond to issues in this repo. But who knows- maybe I will get bored or venture back one day. 
+This repo exists to upload my local scripts and codebase used in White 2024. The code contained herein was not intended for distribution in this state, but only for clairty in how data were treated and how figures were made. As life would have it, I have moved on to industry as of Septemeber 2023 and am unlikely to update, document, or respond to issues in this repo.
 
 
 
